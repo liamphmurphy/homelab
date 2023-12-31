@@ -1,0 +1,1 @@
+Collection of terraform resources. They're all simple enough that I originally planned to have them at the top level, but I decided it'd be easiest to keep them separate as to protect sensitive values (passwords, api keys, etc) and have them be setup as env vars.
